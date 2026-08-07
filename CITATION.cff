@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software in your work, please cite it as below."
+title: "PyKeithley_SMU2450: Python control of the Keithley 2450 SourceMeter"
+abstract: >-
+  A Python library for controlling the Keithley 2450 SourceMeter (SMU)
+  over Ethernet using TSP commands on a raw TCP socket — no VISA or vendor
+  drivers required. Covers voltage/current sourcing with compliance
+  limits, 2- and 4-wire sensing, linear I-V sweeps with buffer readout,
+  source readback, trigger control, and Van der Pauw current-source
+  configuration, with a command-line interface and a hardware
+  verification script.
+type: software
+authors:
+  - family-names: Nakamura
+    given-names: Matthew
+    affiliation: "Nanosystems Lab, University of Hawaiʻi at Mānoa"
+repository-code: "https://github.com/nanosystemslab/pykeithley_smu2450"
+license: GPL-3.0
+version: "1.0.0"
+date-released: "2026-08-07"
+keywords:
+  - keithley
+  - "2450"
+  - sourcemeter
+  - smu
+  - source-measure-unit
+  - instrumentation
+  - tsp
+  - iv-sweep
+  - van-der-pauw
+  - python

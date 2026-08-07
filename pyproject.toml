@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pykeithley_smu2450"
-version = "0.0.0"
+version = "1.0.0"
 description = "PyKeithley_SMU2450"
 authors = ["Nanosystems Lab <nslab@hawaii.edu>"]
 license = "GPL-3.0"
