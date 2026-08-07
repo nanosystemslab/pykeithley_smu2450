@@ -18,6 +18,11 @@ repository-code: "https://github.com/nanosystemslab/pykeithley_smu2450"
 license: GPL-3.0
 version: "1.0.0"
 date-released: "2026-08-07"
+doi: 10.5281/zenodo.21842165
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.21842165
+    description: "Concept DOI — always resolves to the latest version"
 keywords:
   - keithley
   - "2450"
